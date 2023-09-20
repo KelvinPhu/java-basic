@@ -11,7 +11,7 @@ public class bai_13_PTBac2 {
 		 * các biến: a, b, c, x1, x2, delta*/
 		
 		double a, b, c, x1, x2, delta;
-		
+
 		System.out.println("enter a: ");
 		a = sc.nextDouble();
 		System.out.println("enter b: ");
@@ -20,7 +20,6 @@ public class bai_13_PTBac2 {
 		c = sc.nextDouble();
 		
 		delta = Math.pow(b, 2) - 4*a*c;
-		
 		
 		if(a == 0) {
 			System.out.println("Enter wrong, please try again");
