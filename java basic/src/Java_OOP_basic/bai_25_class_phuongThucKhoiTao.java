@@ -30,8 +30,8 @@ public class bai_25_class_phuongThucKhoiTao {
 	public void printYear() {
 		System.out.println("year: " +this.year);
 	}
-	
-	
+
+	// main method
 	public static void main(String[] args) {
 		bai_25_class_phuongThucKhoiTao classPT = new bai_25_class_phuongThucKhoiTao(25, 4, 2024);
 		classPT.printDay();
