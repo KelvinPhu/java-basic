@@ -13,7 +13,7 @@ public class bai_25_class_phuongThucKhoiTao {
 	private int day, month, year;
 	
 	//constructor
-	public bai_25_class_phuongThucKhoiTao(int day, int month, int year) {
+	public bai_25_class_phuongThucKhoiTao(int day, int month, int year){
 		this.day = day;
 		this.month = month;
 		this.year = month;
