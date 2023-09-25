@@ -2,7 +2,7 @@ package Java_OOP_basic;
 
 public class bai_25_class_phuongThucKhoiTao {
 	// xây dựng lớp
-	/* cần định nghĩa 
+	/* cần định nghĩa
 	 * các thuộc tính (biến)
 	 * các hành vi (hàm)*/
 	
