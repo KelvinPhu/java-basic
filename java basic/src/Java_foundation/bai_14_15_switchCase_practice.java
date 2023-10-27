@@ -82,6 +82,5 @@ public class bai_14_15_switchCase_practice {
 			System.out.println("Error value, please enter again");
 			break;
 		}
-		
 	}
 }
