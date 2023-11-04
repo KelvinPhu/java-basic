@@ -94,7 +94,5 @@ public class bai_11_12_hamMath_dieuKienIfElse {
 			f = -e/d;
 			System.out.println("ngiệm: "+f);
 		}
-		
-		
 	}
 }
