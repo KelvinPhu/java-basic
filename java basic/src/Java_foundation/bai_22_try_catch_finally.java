@@ -22,4 +22,3 @@ public class bai_22_try_catch_finally {
 		System.out.println("end!");
 	}
 }
-
