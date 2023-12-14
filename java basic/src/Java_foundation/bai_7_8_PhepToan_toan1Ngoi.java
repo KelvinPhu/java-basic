@@ -34,14 +34,12 @@ public class bai_7_8_PhepToan_toan1Ngoi {
 		int phanTram = a % b;
 		System.out.println("total: " +phanTram);
 		
-		
-		
-		
 		/*Toán 1 ngôi
 		 * ++
 		 * --
 		 * --/++a: vị trí đặt trước biến thì biến sẽ tăng hoặc giảm rồi mới thực hiện câu lệnh tại vị trí đó
 		 * a++/--: vị trí đặt sau biến thì giá trị của biến sẽ được thay đổi sau khi bạn kết thúc câu lệnh */
+		
 		int num1, num2;
 		
 		System.out.println("enter num2: ");
